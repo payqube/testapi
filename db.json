@@ -158,23 +158,7 @@
                     "srno": 1,
                     "todTaId": 10,
                     "todTaName": "FOREST 10" 
-                },
-                {
-                    "playerGender": 0,
-                    "playerId": 2,
-                    "playerName": "사이보그",
-                    "srno": 2,
-                    "todTaId": 1,
-                    "todTaName": "1번" 
-                },
-                {
-                    "playerGender": 2,
-                    "playerId": 3,
-                    "playerName": "게임왕",
-                    "srno": 3,
-                    "todTaId": 5,
-                    "todTaName": "5번" 
-                },
+                }
             ],
             "game": {
                 "gameId": 1,
@@ -212,66 +196,6 @@
                     "srno": 2,
                     "todTaId": 1,
                     "todTaName": "1번" 
-                }
-            ],            
-            "game": {
-                "gameId": 1,
-                "gameCode": "TEST_GAME",
-                "gameName": "테스트 게임",
-                "gameDescription": "테스트 게임 설명",
-                "gameImgUrl": null
-            }
-        },
-        {
-            "roomId": 6,
-            "roomName": "테스트 방",
-            "goodsCode": "TEST_GOODS_CODE",
-            "goodsPostName": "POS에 표시되는 상품명",
-            "goodsDisName": "테스트 상품",
-            "goodsPrice": 2000.000,
-            "gameRoomStatus": 0,
-            "playerCount": 4,
-            "gameBetType": 1,
-            "createdDateTime": "2021-12-10T15:15:17",
-            "playerList": 
-            [
-                {
-                    "playerGender": 1,
-                    "playerId": 1,
-                    "playerName": "겜돌이",
-                    "srno": 1,
-                    "todTaId": 10,
-                    "todTaName": "FOREST 10" 
-                }
-            ],            
-            "game": {
-                "gameId": 1,
-                "gameCode": "TEST_GAME",
-                "gameName": "테스트 게임",
-                "gameDescription": "테스트 게임 설명",
-                "gameImgUrl": null
-            }
-        },
-        {
-            "roomId": 7,
-            "roomName": "테스트 방",
-            "goodsCode": "TEST_GOODS_CODE",
-            "goodsPostName": "POS에 표시되는 상품명",
-            "goodsDisName": "테스트 상품",
-            "goodsPrice": 2000.000,
-            "gameRoomStatus": 0,
-            "playerCount": 4,
-            "gameBetType": 1,
-            "createdDateTime": "2021-12-10T15:15:17",
-            "playerList": 
-            [
-                {
-                    "playerGender": 1,
-                    "playerId": 1,
-                    "playerName": "겜돌이",
-                    "srno": 1,
-                    "todTaId": 10,
-                    "todTaName": "FOREST 10" 
                 }
             ],            
             "game": {
