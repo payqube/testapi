@@ -21,7 +21,7 @@
                     "todTaId": 10,
                     "todTaName": "FOREST 10" 
                 },
-                                {
+                {
                     "playerGender": 0,
                     "playerId": 2,
                     "playerName": "사이보그",
@@ -67,7 +67,7 @@
                     "todTaId": 10,
                     "todTaName": "FOREST 10" 
                 },
-                                {
+                {
                     "playerGender": 0,
                     "playerId": 2,
                     "playerName": "사이보그",
@@ -113,7 +113,7 @@
                     "todTaId": 10,
                     "todTaName": "FOREST 10" 
                 },
-                                {
+                {
                     "playerGender": 0,
                     "playerId": 2,
                     "playerName": "사이보그",
@@ -159,7 +159,7 @@
                     "todTaId": 10,
                     "todTaName": "FOREST 10" 
                 },
-                                {
+                {
                     "playerGender": 0,
                     "playerId": 2,
                     "playerName": "사이보그",
@@ -205,22 +205,14 @@
                     "todTaId": 10,
                     "todTaName": "FOREST 10" 
                 },
-                                {
+                {
                     "playerGender": 0,
                     "playerId": 2,
                     "playerName": "사이보그",
                     "srno": 2,
                     "todTaId": 1,
                     "todTaName": "1번" 
-                },
-                {
-                    "playerGender": 2,
-                    "playerId": 3,
-                    "playerName": "게임왕",
-                    "srno": 3,
-                    "todTaId": 5,
-                    "todTaName": "5번" 
-                },
+                }
             ],            
             "game": {
                 "gameId": 1,
@@ -250,23 +242,7 @@
                     "srno": 1,
                     "todTaId": 10,
                     "todTaName": "FOREST 10" 
-                },
-                                {
-                    "playerGender": 0,
-                    "playerId": 2,
-                    "playerName": "사이보그",
-                    "srno": 2,
-                    "todTaId": 1,
-                    "todTaName": "1번" 
-                },
-                {
-                    "playerGender": 2,
-                    "playerId": 3,
-                    "playerName": "게임왕",
-                    "srno": 3,
-                    "todTaId": 5,
-                    "todTaName": "5번" 
-                },
+                }
             ],            
             "game": {
                 "gameId": 1,
@@ -296,23 +272,7 @@
                     "srno": 1,
                     "todTaId": 10,
                     "todTaName": "FOREST 10" 
-                },
-                                {
-                    "playerGender": 0,
-                    "playerId": 2,
-                    "playerName": "사이보그",
-                    "srno": 2,
-                    "todTaId": 1,
-                    "todTaName": "1번" 
-                },
-                {
-                    "playerGender": 2,
-                    "playerId": 3,
-                    "playerName": "게임왕",
-                    "srno": 3,
-                    "todTaId": 5,
-                    "todTaName": "5번" 
-                },
+                }
             ],            
             "game": {
                 "gameId": 1,
