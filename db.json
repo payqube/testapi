@@ -1,6 +1,7 @@
 {
     "gameRoomList": [
         {
+            "id": 1,
             "roomId": 1,
             "roomName": "테스트 방",
             "goodsCode": "TEST_GOODS_CODE",
@@ -46,6 +47,7 @@
             }
         },
         {
+            "id": 2,
             "roomId": 2,
             "roomName": "테스트 방",
             "goodsCode": "TEST_GOODS_CODE",
@@ -91,6 +93,7 @@
             }
         },
         {
+            "id": 3,
             "roomId": 3,
             "roomName": "테스트 방",
             "goodsCode": "TEST_GOODS_CODE",
@@ -136,6 +139,7 @@
             }
         },
         {
+            "id": 4,
             "roomId": 4,
             "roomName": "테스트 방",
             "goodsCode": "TEST_GOODS_CODE",
@@ -165,6 +169,7 @@
             }
         },
         {
+            "id": 5,
             "roomId": 5,
             "roomName": "테스트 방",
             "goodsCode": "TEST_GOODS_CODE",
